@@ -6,8 +6,13 @@ const inter = Inter({ subsets: ['latin'] })
 
 export default function Home() {
   return (
-    <h1 className="text-green-600">
+    <div>
+      <h1 className="border-8 border-green-600">
       Hello world!
     </h1>
+    <h1 className="text-portfoliorandom">
+      Second title
+    </h1>
+    </div>
   )
 }
