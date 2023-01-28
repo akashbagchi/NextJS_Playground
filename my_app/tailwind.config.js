@@ -9,7 +9,10 @@ module.exports = {
     extend: {
       colors: {
         portfoliorandom: "#47634e",
-      }
+      },
+      fontSize: {
+        base: '18px',
+      },
     },
   },
   plugins: [],
