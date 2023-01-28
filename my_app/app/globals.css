@@ -6,7 +6,7 @@
 
 @layer base {
     html{
-        @apply bg-slate-400 text-white;
+        @apply bg-stone-400 text-white;
         font-family: 'Nixie One', cursive;
     }
 }
