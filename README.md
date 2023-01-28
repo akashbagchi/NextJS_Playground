@@ -1,2 +1,2 @@
 # NextJS_Playground
-Learning and experimenting with nextjs
+Learning and experimenting with nextjs and tailwindcss
