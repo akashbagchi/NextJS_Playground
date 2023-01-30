@@ -29,6 +29,12 @@ export default function Home() {
           <div className="bg-sky-500 p-6 rounded-lg">Fourth Column</div>
         </div>
       </div>
+
+      <div className="container px-3 columns-3">
+        <p>Magna dolore cupidatat est pariatur et. Ut culpa commodo nisi duis ad eiusmod nisi. Id laboris exercitation minim ea ad do irure adipisicing cillum. Proident cupidatat labore excepteur veniam incididunt est. Et laborum qui exercitation commodo id consequat dolore enim incididunt dolore do et exercitation. In magna aliqua eiusmod commodo sint ut labore aliqua sit do Lorem.</p>
+        <p>Ipsum sit consequat in adipisicing. Anim aute ad id sit consequat laborum duis in adipisicing exercitation ullamco magna quis mollit. Ea deserunt dolor anim tempor nostrud sit minim velit aute qui sunt cupidatat excepteur ut. Laborum sint ad eu qui Lorem mollit sint excepteur in aute aliquip deserunt. Eu magna nostrud voluptate officia laboris eu veniam ad dolore ipsum sunt. Lorem consectetur laboris cillum eiusmod occaecat.</p>
+        <p>Laboris ex culpa exercitation dolore culpa exercitation elit in ullamco officia. Aliqua consectetur consectetur deserunt quis eu irure aute cupidatat dolore reprehenderit enim deserunt veniam occaecat. Fugiat exercitation amet quis consequat velit nulla excepteur.</p>
+      </div>
     </div>
   )
 }
